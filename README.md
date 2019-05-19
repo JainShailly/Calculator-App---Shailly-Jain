@@ -1,5 +1,7 @@
-# Calculator-App---Shailly-Jain
+# Calculator App in Java by Shailly Jain
 This is a calculator project written  in Java and JavaFx.
-Source code is available to download.
-JLNP, exe, etc files will be available soon for preview of this project. Currently, you can look at the screenshot attached with this project.
-You can download this project and you are free to make changes to this project.
+For All of the UI, I have used JavaFx. 
+To evaluate the expression entered by the user, I have use the technqiue of "Evaluating infix Expressions using Stack".
+You are free to download, use and edit this project.
+If you like this project, hit the start button at the top.
+Enjoy Java Coding!!
